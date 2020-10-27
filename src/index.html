@@ -2,14 +2,16 @@
 <html>
 <head>
   <title>Bin2Dec</title>
+  <script src="index.js"></script>
 </head>
 <body>
   <h1>Bin2Dec Converter</h1>
-  <form>
+  <form onsubmit="bin2dec(); return false;">
     <label for="binary_num" >Binary Number:</label><br>
     <input type="text" id="binary_num" name="binary_num"><br>
     <label for="decimal_num" >Decimal Number:</label><br>
-    <input type="text" id="decimal_num" name="decimal_num">
+    <input type="text" id="decimal_num" name="decimal_num"><br>
+    <input type="submit" value="Submit">
   </form>
 </body>
 </html>
