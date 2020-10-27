@@ -1,0 +1,8 @@
+{
+  "name": "Bin2Dec",
+  "version": "1",
+  "description": "A simple binary to decimal number converter",
+  "main": "index.js",
+  "author": "mrkshx",
+  "license": "MIT"
+}
