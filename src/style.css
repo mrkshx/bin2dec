@@ -18,3 +18,7 @@ body {
   border-radius: 25px;
   padding: 50px;
 }
+
+input {
+  margin: 5px 0 15px 0;
+}
