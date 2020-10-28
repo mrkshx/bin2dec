@@ -17,6 +17,9 @@ body {
   border: 1px solid black;
   border-radius: 25px;
   padding: 50px;
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 input {
