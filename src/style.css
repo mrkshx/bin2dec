@@ -22,3 +22,7 @@ body {
 input {
   margin: 5px 0 15px 0;
 }
+
+.form_inputs {
+  width: 100%;
+}
